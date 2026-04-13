@@ -1,4 +1,2 @@
 # LazyFragment
-android lazy fragment
-
-[DEMO](https://gitee.com/bitorge/LazyFragment)
+Lazy loading achieved by monitoring the lifecycle through Lifecycle Event Observer
